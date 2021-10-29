@@ -1,0 +1,13 @@
+C:\Users\Botelho\source\repos\TesteLogicaFIT\TesteLogicaFIT\bin\Debug\netcoreapp3.1\TesteLogicaFIT.exe
+C:\Users\Botelho\source\repos\TesteLogicaFIT\TesteLogicaFIT\bin\Debug\netcoreapp3.1\TesteLogicaFIT.deps.json
+C:\Users\Botelho\source\repos\TesteLogicaFIT\TesteLogicaFIT\bin\Debug\netcoreapp3.1\TesteLogicaFIT.runtimeconfig.json
+C:\Users\Botelho\source\repos\TesteLogicaFIT\TesteLogicaFIT\bin\Debug\netcoreapp3.1\TesteLogicaFIT.runtimeconfig.dev.json
+C:\Users\Botelho\source\repos\TesteLogicaFIT\TesteLogicaFIT\bin\Debug\netcoreapp3.1\TesteLogicaFIT.dll
+C:\Users\Botelho\source\repos\TesteLogicaFIT\TesteLogicaFIT\bin\Debug\netcoreapp3.1\TesteLogicaFIT.pdb
+C:\Users\Botelho\source\repos\TesteLogicaFIT\TesteLogicaFIT\obj\Debug\netcoreapp3.1\TesteLogicaFIT.csproj.AssemblyReference.cache
+C:\Users\Botelho\source\repos\TesteLogicaFIT\TesteLogicaFIT\obj\Debug\netcoreapp3.1\TesteLogicaFIT.AssemblyInfoInputs.cache
+C:\Users\Botelho\source\repos\TesteLogicaFIT\TesteLogicaFIT\obj\Debug\netcoreapp3.1\TesteLogicaFIT.AssemblyInfo.cs
+C:\Users\Botelho\source\repos\TesteLogicaFIT\TesteLogicaFIT\obj\Debug\netcoreapp3.1\TesteLogicaFIT.csproj.CoreCompileInputs.cache
+C:\Users\Botelho\source\repos\TesteLogicaFIT\TesteLogicaFIT\obj\Debug\netcoreapp3.1\TesteLogicaFIT.dll
+C:\Users\Botelho\source\repos\TesteLogicaFIT\TesteLogicaFIT\obj\Debug\netcoreapp3.1\TesteLogicaFIT.pdb
+C:\Users\Botelho\source\repos\TesteLogicaFIT\TesteLogicaFIT\obj\Debug\netcoreapp3.1\TesteLogicaFIT.genruntimeconfig.cache
